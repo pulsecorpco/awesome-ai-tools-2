@@ -431,6 +431,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [SpyFu](https://spyfu.com) - AI competitor keyword and ad research tool. Free plan available.
 - [Crayon](https://crayon.co) - AI competitive intelligence and market monitoring. Free trial available.
 - [Kompyte](https://kompyte.com) - AI competitor tracking and battle card generator. Free trial available.
+- [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research. Free trial available.
 
 ### YouTube & Video SEO
 - [TubeBuddy AI](https://tubebuddy.com) - AI YouTube SEO, description, and tag generator. Free plan available.
